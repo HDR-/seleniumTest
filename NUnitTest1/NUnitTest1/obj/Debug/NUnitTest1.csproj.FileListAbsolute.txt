@@ -1,0 +1,11 @@
+c:\users\hdr\documents\visual studio 2012\Projects\NUnitTest1\NUnitTest1\obj\Debug\NUnitTest1.csprojResolveAssemblyReference.cache
+c:\users\hdr\documents\visual studio 2012\Projects\NUnitTest1\NUnitTest1\bin\Debug\NUnitTest1.dll
+c:\users\hdr\documents\visual studio 2012\Projects\NUnitTest1\NUnitTest1\bin\Debug\NUnitTest1.pdb
+c:\users\hdr\documents\visual studio 2012\Projects\NUnitTest1\NUnitTest1\bin\Debug\nunit.framework.dll
+c:\users\hdr\documents\visual studio 2012\Projects\NUnitTest1\NUnitTest1\bin\Debug\nunit.framework.xml
+c:\users\hdr\documents\visual studio 2012\Projects\NUnitTest1\NUnitTest1\obj\Debug\NUnitTest1.dll
+c:\users\hdr\documents\visual studio 2012\Projects\NUnitTest1\NUnitTest1\obj\Debug\NUnitTest1.pdb
+c:\users\hdr\documents\visual studio 2012\Projects\NUnitTest1\NUnitTest1\bin\Debug\WebDriver.dll
+c:\users\hdr\documents\visual studio 2012\Projects\NUnitTest1\NUnitTest1\bin\Debug\WebDriver.Support.dll
+c:\users\hdr\documents\visual studio 2012\Projects\NUnitTest1\NUnitTest1\bin\Debug\WebDriver.xml
+c:\users\hdr\documents\visual studio 2012\Projects\NUnitTest1\NUnitTest1\bin\Debug\WebDriver.Support.xml
